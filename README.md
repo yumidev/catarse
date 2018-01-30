@@ -77,7 +77,7 @@ If everything goes OK, you can now run the project!
 
 * Run API server
 
-	After downloading PostgREST 0.3.x you can unpack and run the executable as below.
+	After downloading PostgREST 0.3.x([Available Versions](https://github.com/begriffs/postgrest/tags)) you can unpack and run the executable as below.
 
 		$ ./postgrest postgres://postgrest@localhost/catarse_development -a anonymous --jwt-secret gZH75aKtMN3Yj0iPS4hcgUuTwjAzZr9C -s 1 -p 3004
 
